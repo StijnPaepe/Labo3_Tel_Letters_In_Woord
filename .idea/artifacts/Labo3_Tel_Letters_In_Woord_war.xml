@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Labo3_Tel_Letters_In_Woord:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Labo3_Tel_Letters_In_Woord</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Labo3_Tel_Letters_In_Woord-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Labo3_Tel_Letters_In_Woord:war exploded" />
+    </root>
+  </artifact>
+</component>
